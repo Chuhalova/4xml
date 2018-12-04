@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="workers.xsl"?>
+<directory>
+  <cd dept="Writer" name="Sasha" salary="1000" />
+  <cd dept="Educator" name="Shon" salary="11000" />
+  <cd dept="Writer" name="Lera" salary="4000" />
+  <cd dept="Manager" name="Maria" salary="5000" />
+  <cd dept="Programmer" name="Sasha" salary="8500" />
+  <cd dept="Programmer" name="Alex" salary="6000" />
+  <cd dept="Educator" name="Lena" salary="10000" />
+  <cd dept="Writer" name="Senya" salary="5000" />
+  <cd dept="Director" name="Stas" salary="27000" />
+</directory>
